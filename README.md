@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vaishnavic11
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on linkedin www.linkedin.com/in/vaishnavi-c-
 
 <!---
